@@ -122,7 +122,9 @@ button {
 /* ---------MISSION---------- */
 
 
-
+.mission-title {
+    color: #2e2f42;
+}
 
 .mission-text {
     color: #434455;
@@ -133,15 +135,17 @@ button {
 
 
 .team {
-    background-color: #f4f4fd;
+    background-color: #FFFFFF;
 }
 
 .team-title {
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .team-subtitle {
     text-align: center;
+    color: #2e2f42
 }
 
 .team-text {
@@ -153,6 +157,11 @@ button {
 
 .portfolio-title {
     text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.portfolio-subtitle {
+    color: #2e2f42
 }
 
 
