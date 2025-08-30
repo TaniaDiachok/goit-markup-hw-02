@@ -126,6 +126,10 @@ button {
     color: #2e2f42;
 }
 
+.mission-subtitle {
+    color: #2e2f42
+}
+
 .mission-text {
     color: #434455;
 }
@@ -135,7 +139,11 @@ button {
 
 
 .team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
+}
+
+.team-item {
+    background-color: #ffffff;
 }
 
 .team-title {
